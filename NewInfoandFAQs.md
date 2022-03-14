@@ -124,20 +124,15 @@ Learner’s training record/history.
 
 - How do I submit a training request?
   - Trainings on the Training Schedule / in the Catalog
-    - From the Learner’s Dashboard, go to View Course Catalog and browse or
-search for the course you wish to enroll and add to your cart.
+    - From the Learner’s Dashboard, go to View Course Catalog and browse or search for the course you wish to enroll and add to your cart.
     - Fill out the Course Request Form, confirm your request.
     - Go to Proceed to Checkout and submit your training request.
     - After completion of training:
-- If it’s a Training Section course, the Training Specialist will mark
-you as complete and it will appear on your training record/history
+- If it’s a Training Section course, the Training Specialist will mark you as complete and it will appear on your training record/history
 - If it’s not a Training Section course:
-  - Click on Submit Proof of Completion and fill out the
-information; you will upload your Certificate of Completion
-through this tool
+  - Click on Submit Proof of Completion and fill out the information; you will upload your Certificate of Completion through this tool 
   - Trainings not on the Training Schedule / in the Catalog
-    - Submit a Course Submittal Form (available on the FOCUS page of the
-Intranet) to have the course added to the Training Catalog
+    - Submit a Course Submittal Form (available on the FOCUS page of the Intranet) to have the course added to the Training Catalog
     - Register for the course via FOCUS (and through the other agency/entity if
 necessary)
     - Attend the training (get a certificate of completion)
@@ -193,7 +188,7 @@ email requesting a copy of your training record.
 - Where is the Training Schedule?
   - The Training Schedule is now the Training Catalog in FOCUS.
   - And is available on training.parks.ca.gov
-## Supervisor Role
+### Supervisor Role
 If Supervisor have been assigned to the training group they will see ALL the Learners in that Training
 Group. Supervisors will see their subordinates on the Management Dashboard under the Direct reports
 block.
@@ -239,7 +234,7 @@ training request information, approve/deny/or request for more information.
 - Where do I go to run the reports that we need?
   - The Reports tab, if you don’t have the tab or need access to certain reports,
 email FOCUS@parks.ca.gov
-## Training Specialist Role
+### Training Specialist Role
 - Course Leader Requests:
   - An Instructor Request (Course Leader Requests) tool is being developed through
 our internal IT Section and will be available for use on a different platform.
@@ -275,7 +270,7 @@ the notification.
 training request information, approve/deny/or request for more information.
 - How do I assign / proxy someone else to be the Manager?
   - This feature is COMING SOON!
-## Information Role
+### Information Role
 - How do I get access:
   - If you need statewide access a specific username and log in will need to be
 created for you. Contact FOCUS@parks.ca.gov
@@ -285,7 +280,7 @@ FOCUS@parks.ca.gov
   - Reports tab
 - How do I access training records?
   - Learners tab
-## Instructor Role
+### Instructor Role
 - Instructors will have two different roles in the system:
   - E-learning Instructors: Online learning content development and delivery
   - Section Instructors: Roster Management for internal courses, teach inperson/online trainings, and respond to Instructor Requests.
