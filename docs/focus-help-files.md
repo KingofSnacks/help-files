@@ -1,6 +1,6 @@
 layout: page
 title: "FOCUS Help Files"
-permalink: /FOCUS_Help_Files/
+permalink: /help-files/FOCUS_Help_Files/
 
 # FOCUS Help Files
 
