@@ -241,7 +241,7 @@ our internal IT Section and will be available for use on a different platform.
   - In the meantime, please use calendar requests and the scheduling assistant
 within Outlook to send a request to an Instructor with a CC/Optional to their
 Supervisor.
-## Manager Role
+### Manager Role
 Managers should reside in the Training Group of their Learners. Managers should NOT use the
 Managed Learners function on the dashboard to add new Learners to their supervisory chain;
 they should only use the Supervisors dashboard.
@@ -306,7 +306,7 @@ following information in the email:
     - Email address:
     - Supervisor's Last Name, First Name, and Email address:
     - Domains/Areas you Instruct:
-## General
+### General
 - Who can submit a Training Request for a Learner?
   - Only a Learner
 - Who can assign a Learning Path to a Learner?
@@ -317,12 +317,12 @@ following information in the email:
   - This feature is not currently available
 - Who can request a program be added to the Training Schedule?
   - If the course exists in the Training Catalog:
- send an email to the FOCUS Support Team identifying the Name of the
+    - send an email to the FOCUS Support Team identifying the Name of the
 Course, the dates, location, lead Instructor(s), level of approval needed.
   - If the course does not exist in the Training Catalog:
- Submit a Course Submittal Form (available on the FOCUS page of the
+    - Submit a Course Submittal Form (available on the FOCUS page of the
 Intranet)
- And then follow up with an email to the FOCUS Support Team identifying
+    - And then follow up with an email to the FOCUS Support Team identifying
 the Name of the Course, the dates, location, lead Instructor(s), level of
 approval needed.
 - Who can assign a delegate/proxy?
